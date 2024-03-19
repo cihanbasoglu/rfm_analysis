@@ -116,4 +116,4 @@ project = 'YOUR_PROJECT'
 dataset = 'YOUR_DATASET'
 table = 'YOUR_TABLE'
 
-to_bq(df,project,dataset,table,credentials,'append')
+to_bq(data,project,dataset,table,credentials,'append')
